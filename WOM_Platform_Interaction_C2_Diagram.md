@@ -10,7 +10,7 @@ graph TD
     consumer-- "a user who subscribe to loyalty program" -->womApp
     womApp-- "Create loyalty Program" -->db[("Database\n[Container - SQL]\nWom database")]
     db-- "Read from / write to" -->womApp
-    womApp-- "notify by / write to" -->blockchain[("Blockchain\n[Smart contract vetchain]\nWom contracts")]
+    womApp-- "notify by / write to" -->blockchain[("Blockchain\n[Smart contract vechain]\nWom contracts")]
     womApp-.->|Sends SMS|sms[("SMS\n[Software System]\nAtsuke")]
     womApp-.->|Sends email|email[("Email\n[Software System]\nBrevo")]
     db<-->api[("API\n[Container - NestJS]\nWom API")]
@@ -27,7 +27,7 @@ The diagram illustrates the technical flow of the WOM platform as follows:
 - **Wom App (Container):** The central interface, built with React and TypeScript.
 - **Wom API (Container):** The central node in the system, built with NestJs and TypeScript.
 - **Database (Container):** A SQL-based container that the WOM app reads from and writes to.
-- **Blockchain (Smart contract vetchain):** A blockchain element that interacts with the WOM app through notifications and read/write operations.
+- **Blockchain (Smart contract vechain):** A blockchain element that interacts with the WOM app through notifications and read/write operations.
 - **SMS (Software System):** Represented by Atsuke, it sends SMS messages as part of the platform's operations.
 - **Email (Software System):** Represented by Brevo, it sends emails as part of the platform's operations.
 

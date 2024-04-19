@@ -1,4 +1,4 @@
-# WOM Loyalty Program Platform with Vetchain
+# WOM Loyalty Program Platform with Vechain
 
 Welcome to the WOM Loyalty Program Platform repository. WOM is revolutionizing the loyalty program landscape by leveraging web3 technology to offer a no-code, user-friendly web platform. This platform enables businesses to create, track, and manage loyalty programs with ease, while customers enjoy the benefits of digitized loyalty cards as NFTs on the blockchain.
 

@@ -52,7 +52,7 @@ The loyalty program is implemented using web3 technologies, which allow for dece
 
 - **Consumer Wallets and NFTs**: Leveraging VechainThor blockchain technology, a consumer's wallet is created, and loyalty cards are issued as NFTs. This gives a digital and transferable representation of loyalty points or rewards.
 
-- **Vetchain Smart Contracts**: These contracts, written and deployed on the VechainThor network, manage the logic for creating loyalty cards, handling the transfer of NFTs, and updating consumer information. Vetchain provides the necessary tools and a robust environment to develop these smart contracts.
+- **Vechain Smart Contracts**: These contracts, written and deployed on the VechainThor network, manage the logic for creating loyalty cards, handling the transfer of NFTs, and updating consumer information. Vechain provides the necessary tools and a robust environment to develop these smart contracts.
 
 - **Security and Ownership**: Blockchain provides a secure ledger where transactions and NFT ownership are immutable. Consumers have full control and ownership of their loyalty cards, represented by NFTs, which can potentially increase in value or be traded.
 
